@@ -6,16 +6,28 @@
 
 ## Introduction
 
-Welcome all to my GitHub profile! </br>
+Welcome to my GitHub profile! </br>
 I am a seasoned professional with more than 11 years software industry experience. I have hand on experience in the development and management of many software applications, especially in dotnet. I focus on building scalable and high-performance software solutions. This ReadMe provides an overview of my skills, projects, and contributions.
 
-## Skills ✨
+## Main Skills ✨
 
 - Programming Languages: C#, SQL, vb.net, Python
 - Frameworks: .NET Framework, .NET Core
 - Databases: Microsoft SQL Server, MySQL
 - Front-End: Winforms, WPF
 - Tools: Visual Studio, Git, Azure DevOps, TFS
+
+## Other Skills ✨
+
+- Azure DevOps
+- MSIX Packages
+- WIX installer toolkit
+- Application Insight
+- DevExpress controls
+- Entity Framework
+- XML
+- Reporting services
+- Praat
 
 ## Recent Projects🔭
 
@@ -31,9 +43,9 @@ Here are some of the recent projects that I worked or working on:
 
 Feel free to explore these projects in detail by visiting their respective links.
 
-## Previous major projects 🔭
+## Previous notable projects 🔭
 
-Here are some more notable projects that I worked on before:
+Here are some more major projects that I worked on previously:
 
 1. Project: Xpert3 - software for insurance companies.
    - Technologies used: vb.Net, SQL Server.
@@ -45,7 +57,6 @@ Here are some more notable projects that I worked on before:
 
 Feel free to explore these projects in detail by visiting their respective links.
 
-
 ## Contributions🌱
 
 I am contributor to the open-source community and have made the following contributions:
@@ -55,7 +66,7 @@ I am contributor to the open-source community and have made the following contri
 
 ## Contact📫
 
-I am always open to new opportunities and collaborations. Feel free to reach out to me via LinkedIn or Upwork. Let's connect and discuss how we can work together! 👯
+I am always open to new opportunities and collaborations. Feel free to reach out to me via LinkedIn or Upwork. Let's connect and discuss how we can work together! 👯 </br>
 
-Thank you for visiting my profile. Happy coding!⚡
+<i> Thank you for visiting my profile. Happy coding! </i>⚡
 
