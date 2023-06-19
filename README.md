@@ -31,29 +31,27 @@ I am a seasoned professional with more than 11 years software industry experienc
 
 ## Recent Projects🔭
 
-Here are some of the recent projects that I worked or working on:
+Here are some of the recent projects that I worked/working on:
 
-1. Project: Xpert3 - software for insurance companies.
-   - Technologies used: vb.Net, SQL Server.
-  🔗: [Xpert3](https://www.xpert3.com/en/software/overview)
+1. Project: ERP 
+   - Description: A desktop application to handle tax changes and other ERP features.
+   - Technologies used: C#, Vb.net, Infragistics controls, Sql Server
+   - Company: WebImp
+ 
+2. Project: Speech to Speech application.
+   - Description: Virtual Microphone for SPEECh to SPEECH real-time conversion with trained models.
+   - Technologies used: C#, Python, Praat, Azure cognitive services
+   - Company: Aptask   
 
-2. Project B: Brief description and key features.
-   - Technologies used: C#, .NET Framework, ASP.NET MVC, React, MongoDB.
-   🔗: [Project B](https://github.com/your-github-repo)
+3. Project: Xpert3
+   - Description: An all-in-one case handling package for surveyors and other experts in the insurance industry.
+   - Technologies used: vb.Net, C#, Devexpress controls, SQL Server
+  </br>🔗[software overview](https://www.xpert3.com/en/software/xpert3)
 
-Feel free to explore these projects in detail by visiting their respective links.
-
-## Previous notable projects 🔭
-
-Here are some more major projects that I worked on previously:
-
-1. Project: Xpert3 - software for insurance companies.
-   - Technologies used: vb.Net, SQL Server.
-   - 🔗: [Xpert3](https://www.xpert3.com/en/software/overview)
-
-2. Project B: Brief description and key features.
-   - Technologies used: C#, .NET Framework, ASP.NET MVC, React, MongoDB.
-   - 🔗: [Project B](https://github.com/your-github-repo)
+4. Project: KLONK Map Measurement.
+   - Description: Software that can measure several different measurements like distance, area and perimeter on a map.
+   - Technologies used: C#, WPF, Devexpress controls, SqlLite.
+   </br>🔗[software overview](https://mapmeasurement.com/)
 
 Feel free to explore these projects in detail by visiting their respective links.
 
