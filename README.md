@@ -7,7 +7,7 @@
 ## Introduction
 
 Welcome all to my GitHub profile! 
-I am a seasoned professional with more than 11 years software industry experience, in the development and management of many mainly applications mainly in dotnet. I focus on building scalable and high-performance software solutions. This README provides an overview of my skills, projects, and contributions. 
+I am a seasoned professional with more than 11 years software industry experience, in the development and management of many applications mainly in dotnet. I focus on building scalable and high-performance software solutions. This README provides an overview of my skills, projects, and contributions. 
 
 ## Skills ✨
 
@@ -21,22 +21,22 @@ I am a seasoned professional with more than 11 years software industry experienc
 
 Here are some of my notable projects that I worked on:
 
-1. Project A: Brief description and key features.
-   - Technologies used: C#, ASP.NET Core, Angular, SQL Server.
-   - GitHub repository: [Project A](https://github.com/your-github-repo)
+1. Project: Xpert3 - software for insurance companies.
+   - Technologies used: vb.Net, SQL Server.
+   - 🔗: [Xpert3](https://www.xpert3.com/en/software/overview)
 
 2. Project B: Brief description and key features.
    - Technologies used: C#, .NET Framework, ASP.NET MVC, React, MongoDB.
-   - GitHub repository: [Project B](https://github.com/your-github-repo)
+   - 🔗: [Project B](https://github.com/your-github-repo)
 
 Feel free to explore these projects in detail by visiting their respective links.
 
 ## Contributions🌱
 
-I am an active contributor to the open-source community and have made the following contributions:
+I am contributor to the open-source community and have made the following contributions:
 
-- [Contribution 1](https://github.com/your-github-repo/contribution-1): Description of the contribution and its impact.
-- [Contribution 2](https://github.com/your-github-repo/contribution-2): Description of the contribution and its impact.
+- [Feed Notifier](https://github.com/kavithapaul/FeedNotifier): A simple desktop application that helps you stay updated with your favorite RSS feeds by providing real-time notifications on your windows desktop.
+- [more contributions](https://github.com/kavithapaul): will update soon..
 
 ## Contact📫
 
