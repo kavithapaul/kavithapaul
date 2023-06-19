@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/kavitha-paul-12244435)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green.svg)](https://github.com/kavithapaul/kavithapaul)
-[![Upwork](https://commons.wikimedia.org/wiki/File:Upwork-logo.svg)](https://www.upwork.com/freelancers/kavithapaul)
+[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-blue.svg)](https://www.upwork.com/freelancers/kavithapaul)
 
 ## Introduction
 
