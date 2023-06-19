@@ -1,11 +1,8 @@
-### Hi there 👋
-**kavithapaul/kavithapaul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-# Senior Software Expert Engineer 
+# Senior Software Expert/Engineer 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue.svg)](https://www.linkedin.com/in/kavitha-paul-12244435)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-green.svg)](https://github.com/kavithapaul/kavithapaul)
-[![Upwork](https://img.shields.io/badge/GitHub-Follow-green.svg)](https://www.upwork.com/freelancers/kavithapaul)
+[![Upwork](https://commons.wikimedia.org/wiki/File:Upwork-logo.svg)](https://www.upwork.com/freelancers/kavithapaul)
 
 ## Introduction
 
